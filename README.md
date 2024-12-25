@@ -51,4 +51,7 @@ This project implements a neural network from scratch to predict tumor malignanc
 - Calculates accuracy by comparing predictions with actual labels.
 - Generates confusion matrices to visualize performance.
 
+### 5. How to run 
+- Click on the "code" file in this repository
+- Copy and paste the code and run in an Python environment
 ---
