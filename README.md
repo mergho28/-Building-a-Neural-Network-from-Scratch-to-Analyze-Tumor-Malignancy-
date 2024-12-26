@@ -1,6 +1,6 @@
 # -Building-a-Neural-Network-from-Scratch-to-Analyze-Tumor-Malignancy-
 
-This project implements a neural network from scratch to predict tumor malignancy using the Wisconsin Breast Cancer dataset. It demonstrates key machine learning concepts such as forward propagation, backpropagation, loss computation, and gradient descent while providing a foundation for developing more advanced models.
+This project implements a neural network from scratch to predict tumor malignancy using the Wisconsin Breast Cancer dataset. This dataset rated tumor on their malignancy due to individual scores ranging from 1-10 that were given to different features of the tumors' microenvironment. These 9 features ranged from cell size and shape to characteristics such as cell adhesion. It demonstrates key machine learning concepts such as forward propagation, backpropagation, loss computation, and gradient descent while providing a foundation for developing more advanced models.
 
 ---
 
